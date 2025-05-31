@@ -1,5 +1,5 @@
 ---
-title: Brretx Blog
+title: brretxblog
 toc: false
 ---
 
