@@ -45,4 +45,4 @@ params:
 
   editURL:
     enable: false
-    base: "https://github.com/brretx/brretx/edit/main/content"
+    base: "https://github.com/brretxblog/brretx/edit/main/content"
